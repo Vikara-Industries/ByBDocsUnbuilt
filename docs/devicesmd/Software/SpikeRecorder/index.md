@@ -1,6 +1,6 @@
 ---
-sidebar_label: Devices
-slug: /
+sidebar_position: 1
+sidebar_label: Spike Recorder
 ---
 # Spike Recorder #
 Our devices are ment to be used with our [Spike Recorder Software](https://backyardbrains.com/products/spikerecorder) available for Windows, macOS, iOS, Android and Linux
